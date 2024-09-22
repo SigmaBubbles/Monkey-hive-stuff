@@ -11,7 +11,32 @@
     {
       "Name": "@TuffRX",
       "Role": "Authorized"
+    },
+    {
+      "Name": "@ArrowVr1",
+      "Role": "Authorized"
+    },
+    {
+      "Name": "@jeffthegnom",
+      "Role": "Authorized"
+    },
+    {
+      "Name": "@ShadowAlexvr",
+      "Role": "Authorized"
     }
   ],
-  "BannedPlayers": []
+  "BannedPlayers": [
+    {
+      "Name": "@BannedPlayer1",
+      "Reason": "cheating"
+    },
+    {
+      "Name": "@BannedPlayer2",
+      "Reason": "Cheating"
+    },
+    {
+      "Name": "@BannedPlayer3",
+      "Reason": "cheating"
+    }
+  ]
 }
