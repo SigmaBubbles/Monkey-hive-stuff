@@ -1,0 +1,17 @@
+{
+  "AuthorizedPlayers": [
+    {
+      "Name": "@JustGolo",
+      "Role": "Authorized"
+    },
+    {
+      "Name": "@bubblesYT",
+      "Role": "Authorized"
+    },
+    {
+      "Name": "@TuffRX",
+      "Role": "Authorized"
+    }
+  ],
+  "BannedPlayers": []
+}
